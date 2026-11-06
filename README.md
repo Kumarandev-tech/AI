@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Qoruz AI Agents prototype
 
 A React and Vite prototype with five focused creator-marketing agents and three independent cloud model choices: Gemini, Ollama Cloud, and Groq. It uses the existing OpenUI chat shell and keeps conversation history per agent in browser local storage.
@@ -33,3 +34,6 @@ The Gemini key is sent from the browser in this development prototype and is vis
 - `npm run build`
 # AI
 # AI
+=======
+# AI
+>>>>>>> 840f0a004726f7677e67815b7ecbe9f1d7d8dfc9
