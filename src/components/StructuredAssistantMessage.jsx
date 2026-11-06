@@ -2,7 +2,6 @@ import { Renderer } from '@openuidev/react-lang'
 import { openuiChatLibrary } from '@openuidev/react-ui'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
-
 const markdownComponents = {
   a: ({ node, ...props }) => (
     <a {...props} target="_blank" rel="noopener noreferrer" />
